@@ -31,4 +31,4 @@ CH32V003 Dev Kit comes with the following:
 NOTE: The package includes the above so the developer can fully evaluate CH32V003 MCU without buying anything else.
 
 # How do you start learning MCU Programming?
-A Complete CH32V003 Programming Tutorial is available here. This is still a work in progress (WIP), so more tutorials will be published soon.
+A Complete CH32V003 Programming Tutorial is available [here](https://pallavaggarwal.in/2023/10/01/ch32v003-low-cost-mcu-programming/). This is still a work in progress (WIP), so more tutorials will be published soon.

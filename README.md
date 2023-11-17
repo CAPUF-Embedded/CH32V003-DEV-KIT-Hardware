@@ -1,4 +1,8 @@
-# CH32V003-Hardware
+# CH32V003 Dev Kit Hardware
+
+CAPUF Embedded has released the CH32V003 Dev Kit to simplify developers’ lives.
+
+If an engineer or maker wants to evaluate or start learning about CH32V003, they have an MCU breakout board, which is not very useful. They need different breakout boards for different interfaces to explore the MCU fully. CAPUF Embedded identified this gap and came up with the idea of building a more useful development board. That’s how the CH32V003 Dev Kit was born.
 
 ## PCB TOP VIEW (3D) ##
 ![image](https://github.com/CAPUF-Embedded/CH32V003-DEV-KIT-Hardware/assets/13899090/a9e6eb04-1f70-4d22-9577-77ffd66e4d2c)

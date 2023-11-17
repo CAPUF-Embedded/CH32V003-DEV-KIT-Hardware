@@ -1,19 +1,24 @@
 # CH32V003-Hardware
 
+## PCB TOP VIEW (3D) ##
 ![image](https://github.com/CAPUF-Embedded/CH32V003-DEV-KIT-Hardware/assets/13899090/a9e6eb04-1f70-4d22-9577-77ffd66e4d2c)
 
+## PCB TOP VIEW (Actual board) ##
+![image](https://github.com/CAPUF-Embedded/CH32V003-DEV-KIT-Hardware/assets/13899090/d4bed557-60c6-4af6-9b6d-9b4f471ec060)
+
 CH32V003 Dev Kit Technical Features
+- QFN20 Package CH32V003 MCU is used. This allows users to evaluate on the interfaces available on any package.
 - USB-C Port for Power (5V) and Serial Interface
 - On-board 3.3V LDO
-- UART – USB to UART
-- I2C – Temperature Humidity Sensor
+- UART – USB to UART (CH340C)
+- I2C – Temperature Humidity Sensor (AHT20/AHT20-F)
 - I2C – Qwiik Connector for connecting external sensor boards
 - I2C – 0.96″ 128×64 Pixels OLED Display Module (included in the package)
 - I2C – 4 Pin Header is provided to connect to other boards via jumper wires. The connector is not soldered on the board.
-- SPI – 8Mbit SPI NOR Flash
-- PWM – RGB LED
+- SPI – 8Mbit / 1MB SPI NOR Flash (Winbond 25Q80)
+- PWM – RGB LED (5050)
 - GPIO – I/P – Two Keys
-- ADC I/P – Variable Resistor / Potentiometer
+- ADC I/P – 10k ohm Variable Resistor / Potentiometer
 - GPIO – O/P – One LED and one Buzzer
 - 3 Pin header for WCH-LinkE Programmer (3.3V, SWIO, GND)
 - 2x 20 Pin headers for MCU IOs Breakout, dual row is for easy probing
@@ -32,3 +37,5 @@ CH32V003 Dev Kit comes with the following:
 
 # How do you start learning MCU Programming?
 A Complete CH32V003 Programming Tutorial is available [here](https://pallavaggarwal.in/2023/10/01/ch32v003-low-cost-mcu-programming/). This is still a work in progress (WIP), so more tutorials will be published soon.
+
+

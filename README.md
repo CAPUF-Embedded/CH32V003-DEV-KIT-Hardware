@@ -19,4 +19,16 @@ CH32V003 Dev Kit Technical Features
 - 2x 20 Pin headers for MCU IOs Breakout, dual row is for easy probing
 - LED Indications for 5V/3.3V/UART RX, TX
 - Option for connecting external 24Mhz Oscillator (by default, the jumper is disconnected)
-- MCU Reset Button is provided on the board which can also be used as a User Key if PD7 is configured for GPIO
+- MCU Reset Button is provided on the board, which can also be used as a User Key if PD7 is configured for GPIO
+
+# What comes along with the CH32V003 Dev Kit?
+CH32V003 Dev Kit comes with the following:
+
+- CH32V003 Dev Kit Development Board
+- USB-A to USB-C Cable
+- WCHLinkE Programmer
+
+NOTE: The package includes the above so the developer can fully evaluate CH32V003 MCU without buying anything else.
+
+# How do you start learning MCU Programming?
+A Complete CH32V003 Programming Tutorial is available here. This is still a work in progress (WIP), so more tutorials will be published soon.
